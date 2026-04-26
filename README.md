@@ -22,9 +22,9 @@ I build scalable web applications and real-time systems with strong backend arch
 - Automated resume screening using keyword extraction & scoring
 - Deployed on AWS
 
-🔗 Frontend: https://github.com/Depayan2003/<frontend-repo>  
-🔗 Backend: https://github.com/Depayan2003/<backend-repo>  
-🔗 Live: <your-live-link>
+🔗 Frontend: https://github.com/Depayan2003/ATS-Next  
+🔗 Backend: https://github.com/Depayan2003/ATS-Service  
+🔗 Live: https://ats-next-nine.vercel.app
 
 ---
 
@@ -33,9 +33,9 @@ I build scalable web applications and real-time systems with strong backend arch
 - Real-time messaging system with low latency
 - AWS EC2 + RDS deployment
 
-🔗 Frontend: https://github.com/Depayan2003/<frontend-repo>  
-🔗 Backend: https://github.com/Depayan2003/<backend-repo>  
-🔗 Live: <your-live-link>
+🔗 Frontend: https://github.com/Depayan2003/XSocial-frontend  
+🔗 Backend: https://github.com/Depayan2003/XSocial-backend 
+🔗 Live: https://xsocial-frontend.vercel.app
 
 ---
 
