@@ -20,20 +20,22 @@ I build scalable web applications and real-time systems with strong backend arch
 ### 1. ATS Resume Evaluation System
 - Built with Next.js + Python
 - Automated resume screening using keyword extraction & scoring
-- Deployed on AWS for scalability
+- Deployed on AWS
 
-🔗 Live: <your-link>  
-🔗 Code: https://github.com/Depayan2003/<repo-name>
+🔗 Frontend: https://github.com/Depayan2003/<frontend-repo>  
+🔗 Backend: https://github.com/Depayan2003/<backend-repo>  
+🔗 Live: <your-live-link>
 
 ---
 
 ### 2. XSocial – Real-Time Chat App
 - Spring Boot + WebSocket (STOMP)
-- Real-time messaging with low latency
+- Real-time messaging system with low latency
 - AWS EC2 + RDS deployment
 
-🔗 Live: <your-link>  
-🔗 Code: https://github.com/Depayan2003/<repo-name>
+🔗 Frontend: https://github.com/Depayan2003/<frontend-repo>  
+🔗 Backend: https://github.com/Depayan2003/<backend-repo>  
+🔗 Live: <your-live-link>
 
 ---
 
