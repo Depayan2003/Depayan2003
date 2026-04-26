@@ -23,7 +23,7 @@ I build scalable web applications and real-time systems with strong backend arch
 - Deployed on AWS
 
 🔗 Frontend: https://github.com/Depayan2003/ATS-Next  
-🔗 Backend: https://github.com/Depayan2003/ATS-Service  
+🔗 Backend: https://github.com/Depayan2003/ATS-Service
 🔗 Live: https://ats-next-nine.vercel.app
 
 ---
